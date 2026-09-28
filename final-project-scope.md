@@ -6,6 +6,9 @@ Families, Individuals, and Institutions (Which reside in the community)
 ## Description – 
 The current state of the community if unacceptable and the dwindling state is causing members of the community as well as the children of said community to grow ill from the presence of the growing levels of pollution.
 With the help of Protections for the Juvenile and Adolescent we will strive for a better and cleaner community with the implementation of their newest program; Households against Havoc; a program created to combat against the growing issues of our community and provide better care for our streets and kin. 
+
+This will involve a full overhaul of the current workings of the community, involving medical checks for the rampant sickness infecting our youth as well as a full clean up of the community to prevent persistence from the sickness.
+
 Implementation will include:
 * Cleaning trash off of the roads, streets, sidewalks, and ditches that reside within the community.
 * Conducting medical check ups on those who volunteer and provide the required medical assistance and care.
